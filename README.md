@@ -12,7 +12,7 @@ cd ../test
 
 ./mk
 
-# To test speech to text:
+## To test speech to text:
 
 In one command line window -
 
@@ -28,7 +28,7 @@ cd test , use a USB mic:
 
 speak to mic, see results in audio.txt
 
-# To test speech to text:
+## To test keyword spotting:
 
 In one command line window -
 
