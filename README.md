@@ -22,8 +22,11 @@ cd test
 
 In another command line window -
 
-cd test
+cd test , use a USB mic:
 
 ./vad.exe
+
+speak to mic, see results in audio.txt
+
 
 
