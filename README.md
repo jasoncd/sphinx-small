@@ -1,6 +1,6 @@
 # sphinx-small
 
-For Linux Platform:
+For Linux / Rasbian Platform:
 
 To compile:
 
@@ -27,6 +27,7 @@ cd test , use a USB mic:
 ./vad.exe
 
 speak to mic, see results in audio.txt
+
 
 
 
