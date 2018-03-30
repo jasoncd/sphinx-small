@@ -12,11 +12,15 @@ cd ../test
 To test:
 
 In one command line window -
+
 cd test
+
 ./run-sphinx
 
-In another command line window =
+In another command line window -
+
 cd test
+
 ./vad.exe
 
 
