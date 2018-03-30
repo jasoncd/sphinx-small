@@ -1,0 +1,10 @@
+../src/batch.exe \
+    -hmm en-us/hmm \
+    -lm en-us/en-us.lm.bin \
+    -dict en-us/en-us.dict \
+    -ctl audio/wavlist \
+    -cepdir audio \
+    -cepext .wav \
+    -adcin yes \
+    -hyp audio.txt
+
