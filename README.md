@@ -2,7 +2,7 @@
 
 For Linux / Rasbian Platform:
 
-# To compile:
+## To compile:
 
 cd src
 
