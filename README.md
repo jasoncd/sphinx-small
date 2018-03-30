@@ -5,8 +5,11 @@ For Linux Platform:
 To compile:
 
 cd src
+
 ./mk
+
 cd ../test
+
 ./mk
 
 To test:
