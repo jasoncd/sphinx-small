@@ -34,7 +34,7 @@ In one command line window -
 
 cd test
 
-./run-sphinx-kwd
+./run-sphinx-kws
 
 In another command line window -
 
