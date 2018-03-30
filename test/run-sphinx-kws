@@ -1,0 +1,10 @@
+../src/batch.exe \
+    -hmm en-us/hmm \
+    -fsg trigger.fsg \
+    -dict trigger.dict \
+    -ctl audio/wavlist \
+    -cepdir audio \
+    -cepext .wav \
+    -adcin yes \
+    -hyp audio.txt
+
