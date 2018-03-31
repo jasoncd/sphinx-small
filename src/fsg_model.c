@@ -661,7 +661,7 @@ fsg_model_read(FILE * fp, logmath_t * lmath, float32 lw)
             }
 
             p = atof_c(wordptr[3]);
-            if ((p <= 0.0) || (p > 1.0)) {
+            if ((p <= 0.0) || (p > 10.0)) {
                 E_ERROR
                     ("Line[%d]: transition spec malformed; Expecting float as transition probability\n",
                      lineno);
