@@ -4,7 +4,7 @@ grammar trigger;
 
 // Body
 public <trigger> = <gab> <key> <gab> | <gab>;
-<key> = (alexa | google | system);
+<key> = (alexa | /2.5/ google | system);
 <gab> = ( aa | ah | ay | ao | aw |
  eh | ey | er |
  ih | iy | 
